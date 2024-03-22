@@ -7,3 +7,12 @@ Além disso, as diferenças entre o ML na pesquisa e o ML na produção são exp
 Outro ponto interessante é como os sistemas de ML se distinguem dos sistemas de software tradicionais. Eles são muito mais complexos e exigem uma compreensão ampla, indo além dos algoritmos de ML. É necessário dominar aspectos como a gestão dos dados, implantação, monitoramento e manutenção, entre outros.
 
 Este livro adota uma abordagem completa para o desenvolvimento de sistemas de ML, abraçando todos os componentes de forma holística. Afinal, a chave para o sucesso está em compreender não apenas os algoritmos, mas todo o ecossistema que envolve essa tecnologia revolucionária.
+
+O segundo capitulo serve como um guia que nos conduz ao universo do design de sistemas de aprendizado de máquina (ML). Ele começa ressaltando algo fundamental: todo projeto, incluindo os de ML, deve ter um propósito claro. Em outras palavras, se estamos desenvolvendo um sistema de ML para uma empresa, ele precisa estar alinhado com os objetivos dessa empresa.
+
+Antes de nos aprofundarmos na criação do sistema, é crucial compreendermos quais requisitos ele precisa atender. Esses requisitos, como confiabilidade, escalabilidade, manutenibilidade e adaptabilidade, funcionam como o mapa que orientará nosso progresso.
+
+A construção de um sistema de ML não é algo feito rapidamente; trata-se de um processo iterativo no qual repetimos várias etapas até alcançarmos o resultado desejado. Esse processo reforça a ideia de que estamos constantemente aprendendo e evoluindo.
+
+Por fim, o capítulo conclui com uma reflexão sobre a importância dos dados no contexto do ML. Embora alguns possam pensar que algoritmos inteligentes podem dispensar a necessidade de muitos dados, exemplos como AlexNet, BERT e GPT demonstram que o acesso a uma grande quantidade de dados é crucial para o êxito do ML.
+
