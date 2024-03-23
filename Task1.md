@@ -20,4 +20,11 @@ A construção de um sistema de ML não é algo feito rapidamente; trata-se de u
 
 Por fim, o capítulo conclui com uma reflexão sobre a importância dos dados no contexto do ML. Embora alguns possam pensar que algoritmos inteligentes podem dispensar a necessidade de muitos dados, exemplos como AlexNet, BERT e GPT demonstram que o acesso a uma grande quantidade de dados é crucial para o êxito do ML.
 
-##
+## Terceiro Capitulo
+No terceiro capitulo, mergulhamos na importância dos dados para o desenvolvimento de sistemas de Machine Learning, construindo sobre o que aprendemos anteriormente. Descobrimos a relevância de escolher o formato certo para armazenar nossos dados, seja em linhas ou colunas, texto ou binário. Exploramos três modelos principais de dados: relacional, documento e gráfico, cada um útil para diferentes tarefas.
+
+Ao discutir dados estruturados versus não estruturados, entendemos que a principal questão é quem deve assumir a responsabilidade pela estrutura dos dados. Passamos para mecanismos de armazenamento e processamento de dados, incluindo bancos de dados transacionais e analíticos, com a recente tendência de desacoplar armazenamento e processamento.
+
+Exploramos diferentes modos de transferência de dados entre processos, desde passar por bancos de dados até o uso de serviços e transportes em tempo real como Apache Kafka e RabbitMQ. Cada modo tem suas vantagens e se adequa a diferentes arquiteturas de aplicativos, com o transporte em tempo real ocupando um lugar intermediário entre os métodos anteriores.
+
+Por fim, discutimos as implicações do processamento em lote versus em fluxo, especialmente ao lidar com dados em transportes em tempo real. Enquanto os dados em bancos de dados são geralmente processados em lote, os transportes em tempo real exigem técnicas de processamento de fluxo para lidar com sua natureza dinâmica. Alguns argumentam que o processamento em lote é apenas um caso especial do processamento de fluxo, sugerindo uma abordagem unificada para ambos os tipos de processamento.
