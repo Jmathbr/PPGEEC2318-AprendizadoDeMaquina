@@ -1,21 +1,21 @@
 # Tarefa 1: Análise de Artigo
 
-**Objetivo**: Analisar criticamente o artigo do Arxiv [https://arxiv.org/pdf/2403.07918.pdf](https://arxiv.org/pdf/2403.07918.pdf), deliberando sobre o compartilhamento de modelos em ML, examinando tanto os aspectos favoráveis quanto os desfavoráveis.
+**Objetivo**: Analisar criticamente o artigo do Arxiv [https://arxiv.org/pdf/2403.07918.pdf](https://arxiv.org/pdf/2403.07918.pdf)
 
-## Parágrafo de Aspectos Positivos
+## Aspectos Positivos
 Compartilhar modelos em Machine Learning (ML) promove a colaboração entre pesquisadores, permitindo a troca de ideias e avanços mais rápidos na área. O acesso a modelos avançados acelera o desenvolvimento de novas aplicações e tecnologias, impulsionando a inovação. Ao tornar modelos avançados acessíveis, mais pessoas e instituições podem utilizar e beneficiar-se dessas tecnologias, independentemente de seus recursos financeiros.
 
-### Parágrafo de Aspectos Negativos
+### Aspectos Negativos
 Modelos compartilhados podem ser usados para finalidades maliciosas, como criação de deepfakes ou ataques cibernéticos. Há preocupações éticas relacionadas ao uso de modelos treinados em dados sensíveis ou enviesados. Empresas podem perder a vantagem competitiva ao compartilhar seus modelos, afetando seu posicionamento no mercado.
 
-## Parágrafo de Opinião Pessoal
+## Opinião Pessoal
 Minha opinião é que a prática de compartilhar modelos em ML deve ser incentivada, pois os benefícios superam os riscos. A colaboração e a inovação acelerada são cruciais para o avanço da tecnologia e podem ser gerenciadas com políticas de uso responsável e mecanismos de segurança.
 
 # Tarefa 2: Pontos Chave sobre Dados de Treinamento
 
 **Objetivo**: Extrair e resumir 10 percepções cruciais sobre Dados de Treinamento do Capítulo 4 do livro de Chip Huyen, "Designing Machine Learning Systems."
 
-## Parágrafo de Introdução
+## Introdução
 Os dados de treinamento são a base dos sistemas de ML, pois determinam a eficácia e a precisão dos modelos. Dados de qualidade são essenciais para o desempenho e a confiabilidade dos modelos.
 
 ## 10 Pontos Chave
